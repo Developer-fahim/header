@@ -1,0 +1,78 @@
+*{margin: 0; padding:0;}
+
+/*auto css start*/
+#__bs_notify__{
+    color:blue !important;
+    background: transparent !important;
+    height:0px !important;
+}
+/*auto css end*/
+body{
+	background:#121B2A;
+}
+.container{
+	margin: auto;
+	width: 1135px;
+
+}
+.header{
+	min-width: 10px;
+	background:#121b2a;
+	color:white;
+	overflow: hidden;
+	box-shadow: -20px 5px 45px 37px #08101B;
+}
+.logoBox img{
+	width: 100%;
+	float: left;
+	cursor: pointer;
+}
+.navigation{
+	overflow: hidden;
+}
+.logoBox{
+	max-width: 17%;
+}
+.item{
+	max-width: 106%;
+    text-align: center;
+    margin-left: 10px;
+}
+.menu{
+	float: right;
+	margin-top: 53px;
+}
+.menu .item li{
+	float: left;
+	padding: 10px;
+	font-size:15px;
+	font-family:sans-serif;
+	text-transform:uppercase;
+	list-style: none;
+}
+.menu .item li a{
+	text-decoration: none;
+	color: white;
+	padding: 0px 20px;
+	transition: all 0.5s;
+}
+
+.active a{
+	color: #0276c2 !important;
+	letter-spacing: 0.02em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
